@@ -3,6 +3,8 @@ header("HTTP/1.1 418 I'm a teapot");
 ?>
 <html>
     <head>
+        <link rel="shortcut icon" type="image/x-icon" href="favicon.ico"/>
+        <link rel="shortcut icon" type="image/x-icon" href="coffee.angrypixies.net/favicon.ico">
         <style type="text/css">
             body {
             margin-top: 24px;
